@@ -1,4 +1,4 @@
-# **Proyecto LyM - 2023-1**
+# **Proyecto LyM 2023-1**
 
 Se trata de un Parser y Lexer realizado en JavaCC para controlar los movimientos de un robot de un juego implementado en Java.
 
